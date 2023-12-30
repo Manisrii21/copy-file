@@ -2,8 +2,10 @@
 ## AIM:
 To write a python program for copying the contents from one file to another file.
 ## EQUIPEMENT'S REQUIRED: 
-PC
+```
+Hardware-PCs
 Anaconda - Python 3.7
+``````
 ## ALGORITHM: 
 # Step 1:
 get the file name to create user
